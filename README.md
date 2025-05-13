@@ -1,2 +1,28 @@
 # smart-nlp-chatbot
-## 🧠 About the Project  This chatbot can: - Understand user input in natural language - Maintain context across messages - Generate intelligent responses using Microsoft’s DialoGPT model - Be deployed via Streamlit or Azure
+# 🤖 Smart NLP Chatbot
+
+This is an intelligent chatbot developed using Natural Language Processing (NLP) techniques with Hugging Face's DialoGPT model. The project was built as part of the **Microsoft–Edunet AI National Skilling Initiative Internship**, aimed at solving real-world problems using AI.
+
+
+
+---
+
+## 🧠 Features
+
+- 💬 Conversational AI with multi-turn context awareness
+- ⚡ Powered by Microsoft's **DialoGPT-medium** transformer model
+- 📥 Text-based UI using **Streamlit**
+- 🔁 Keeps track of chat history for context
+- 🌐 Ready for deployment on **Streamlit Cloud**, **Azure**, or **Hugging Face Spaces**
+
+---
+
+## 📦 Technologies Used
+
+- Python
+- Streamlit
+- Hugging Face Transformers
+- PyTorch
+- Microsoft DialoGPT
+
+---
